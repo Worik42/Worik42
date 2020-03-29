@@ -22,7 +22,7 @@ int main()
 
         if (res == 0)
         {
-            bM->setMeasures(300, 750, 450, 12, 149);
+            bM->setMeasures(310, 750, 450, 12, 149);
 
             IComputeBox *cB;
             iid = 2;
